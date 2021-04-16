@@ -1,8 +1,16 @@
+/**
+   * this is package
+  */
 package com.example;
-
+/**
+   * this is class
+  */
 
 public class Greeter {
 
+/**
+   * this is constructor
+  */
   
   public Greeter() {
 
